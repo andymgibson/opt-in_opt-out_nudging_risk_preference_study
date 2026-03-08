@@ -1,0 +1,81 @@
+Timestamp,Gender,Year,What is your age?,What is the highest level of education completed by either of your parents?,What is the approximate total income earned by your family in the last year?,"1. Select which option you prefer:
+
+Option A: 40% chance of $300, 60% chance of nothing.
+
+Option B: 100% chance of $110","2. Select which option you prefer:
+
+Option A: 40% chance of $200, 60% chance of nothing.
+
+Option B: 100% chance of $80","3. This is your current choice:
+Option A: 40% chance of $300, 60% chance of nothing.
+Would you like to change to Option B?
+Option B: 100% chance of $110","4. This is your current choice:
+Option A: 40% chance of $200, 60% chance of nothing.
+Would you like to change to Option B?
+Option B: 100% chance of $80","5. Select which option you prefer: 
+
+Option A: 100% chance of $50
+
+Option B: 50% chance of $100, 50% chance of nothing","6. This is your current choice:
+Option A: 100% chance of $50
+Would you like to change to Option B?
+Option B: 50% chance of $100, 50% chance of nothing","7. Select which option you prefer: 
+
+Option A: 100% chance of $20
+
+Option B: 50% chance of $45, 50% chance of nothing","8. Select which option you prefer:
+Option A: 100% chance of $220
+Option B: 50% chance of $400, 50% chance of $40","9. Select which option you prefer:
+Option A: 25% chance of $800, 75% chance of $100
+Option B: 100% chance of $310","10. This is your current choice:
+Option A: 100% chance of $20
+Would you like to change to Option B?
+Option B: 50% chance of $45, 50% chance of nothing","11. This is your current choice:
+Option A: 100% chance of $220
+Would you like to change to Option B?
+Option B: 50% chance of $400, 50% chance of $40","12. Select which option you prefer:
+Option A: 60% chance of $350, 40% chance of $150
+Option B: 40% chance of $550, 60% chance of $140","13. Select which option you prefer: 
+Option A: 45% chance of $520, 55% chance of $80
+Option B: 40% chance of $650, 60% chance of $85","14. This is your current choice:
+Option A: 25% chance of $800, 75% chance of $100
+Would you like to change to Option B?
+Option B: 100% chance of $310","15. This is your current choice:
+Option A: 60% chance of $350, 40% chance of $150
+Would you like to change to Option B?
+Option B: 40% chance of $550, 60% chance of $140","16. Select which option you prefer: 
+Option A: 50% chance of $420, 50% chance of $100
+Option B: 45% chance of $520, 55% chance of $104","17. This is your current choice:
+Option A: 45% chance of $520, 55% chance of $80
+Would you like to change to Option B?
+Option B: 40% chance of $650, 60% chance of $85","18. Select which option you prefer: 
+Option A: 40% chance of $650, 60% chance of $120
+Option B: 35% chance of $900, 65% chance of $100","19. This is your current choice:
+Option A: 50% chance of $420, 50% chance of $100
+Would you like to change to Option B?
+Option B: 45% chance of $520, 55% chance of $104","20. This is your current choice:
+Option A: 40% chance of $650, 60% chance of $120
+Would you like to change to Option B?
+Option B: 35% chance of $900, 65% chance of $100",What do you think this survey was about?,Do you have any questions or comments about the survey?
+2/28/2026 20:38:36,Man,Senior,22-25,Masters or professional degree,Prefer not to specify,Option A,Option A,,,Option A,,Option B,Option A,Option B,,,Option B,Option B,,,Option A,,Option A,,, Your family background and its implication on risky behaviour,Cool stuff
+2/28/2026 20:44:12,Man,Junior,18-21,Masters or professional degree,"$250,000+",Option A,Option A,,,Option B,Change to Option B,Option A,Option B,Option B,Change to Option B,,Option B,Option B,Change to Option B,Change to Option B,Option A,Change to Option B,Option B,Change to Option B,Change to Option B,A supposed correlation between financial choices and financial background?,I have OCD
+2/28/2026 20:44:32,Man,Senior,22-25,Undergraduate degree,"$100,000-200,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option B,,,Option A,Option B,Change to Option B,,Option B,Change to Option B,Option B,,Change to Option B,how chance affects perceived value of options,
+3/1/2026 12:56:50,Woman,Junior,18-21,Masters or professional degree,"$250,000+",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option B,Option A,Option B,Change to Option B,,Option B,Option B,Change to Option B,,Option A,,Option B,,Change to Option B,Risk tolerance ,Too many qs; wasn’t thinking as critically at the end 
+3/1/2026 13:02:04,Woman,Freshman,18-21,Undergraduate degree,"$100,000-200,000",Option B,Option B,Change to Option B,Change to Option B,Option B,,Option B,Option A,Option B,,,Option A,Option B,Change to Option B,,Option B,Change to Option B,Option A,Change to Option B,,How we perceive the value of option bundles.,
+3/1/2026 15:14:23,Woman,Junior,18-21,Undergraduate degree,"<$50,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option B,Option A,Option B,Change to Option B,,Option A,Option A,Change to Option B,,Option A,,Option A,,,Income threshold and money risk/security,
+3/1/2026 16:06:29,Woman,Junior,22-25,Masters or professional degree,"<$50,000",Option A,Option B,,Change to Option B,Option A,,Option B,Option A,Option B,Change to Option B,,Option B,Option B,Change to Option B,Change to Option B,Option B,Change to Option B,Option B,Change to Option B,Change to Option B,Decision making regarding expected outcomes and probability.,
+3/1/2026 17:54:20,Woman,Junior,18-21,High school,"$50,000-100,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option B,,,Option A,Option B,Change to Option B,,Option A,,Option A,Change to Option B,,What is it gauging?,no
+3/2/2026 13:28:10,Non-binary,Junior,18-21,Masters or professional degree,"$250,000+",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option B,Change to Option B,,Option B,Option A,,Change to Option B,Option B,Change to Option B,Option A,Change to Option B,Change to Option B,If the way questions are presented influence people’s decision,
+3/2/2026 14:35:30,Woman,Sophomore,18-21,Masters or professional degree,"$100,000-200,000",Option A,Option B,,Change to Option B,Option A,,Option B,Option A,Option B,Change to Option B,,Option A,Option B,Change to Option B,,Option B,Change to Option B,Option A,Change to Option B,,Risk taking among different backgrounds.,
+3/2/2026 16:19:57,Man,Grad Student,40+,Undergraduate degree,"$50,000-100,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option B,,,Option A,Option A,Change to Option B,Change to Option B,Option A,Change to Option B,Option B,Change to Option B,Change to Option B,Cost-benefit decision making,
+3/2/2026 18:33:42,Man,Senior,22-25,High school,"<$50,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option B,,,Option A,Option B,Change to Option B,,Option A,,Option A,,,"This could be something about false memory. Either that or some coding stuff went wrong cuz some of “this is your current choice, do you want to change”questions did not match with what I selected. Or it could be gambling.",
+3/2/2026 22:47:51,Woman,Sophomore,18-21,Undergraduate degree,"$100,000-200,000",Option B,Option B,Change to Option B,,Option B,Change to Option B,Option B,Option A,Option A,Change to Option B,,Option A,Option B,,,Option B,Change to Option B,Option A,Change to Option B,,betting and gambling psychology,
+3/3/2026 21:57:43,Man,Freshman,18-21,Undergraduate degree,"$100,000-200,000",Option A,Option B,,Change to Option B,Option B,Change to Option B,Option B,Option B,Option B,Change to Option B,Change to Option B,Option B,Option B,Change to Option B,Change to Option B,Option B,Change to Option B,Option B,Change to Option B,Change to Option B,"If people choose higher expected value or not. Also, to see how their decisions change based on options theyre already given.",
+3/4/2026 0:54:01,Woman,I'm not a student,22-25,PhD or PsyD,Prefer not to specify,Option B,Option B,Change to Option B,Change to Option B,Option B,Change to Option B,Option B,Option A,Option B,,,Option A,Option B,Change to Option B,,Option B,Change to Option B,Option B,Change to Option B,Change to Option B,At what point people start to take risks / gamble money or how people make decisions about what outcome is more profitable when probability is involved,
+3/4/2026 2:01:23,Man,Freshman,18-21,High school,"$50,000-100,000",Option B,Option B,,,Option A,,Option B,Option A,Option B,,,Option B,Option B,,,Option B,,Option A,,,What line do people choose to gamble and or change their mind.,
+3/4/2026 14:34:00,Woman,Freshman,18-21,Masters or professional degree,"$250,000+",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option B,,,Option B,Option B,Change to Option B,Change to Option B,Option B,Change to Option B,Option B,Change to Option B,Change to Option B,Consumer spending choices?,
+3/4/2026 15:38:27,Woman,Junior,18-21,Masters or professional degree,"$250,000+",Option B,Option B,Change to Option B,Change to Option B,Option B,Change to Option B,Option B,Option A,Option B,Change to Option B,,Option B,Option B,Change to Option B,Change to Option B,Option B,Change to Option B,Option B,Change to Option B,Change to Option B,How upbringing within diff socioeconomic backgrounds affects risky behavior???,Owen brutha this did NOT take 5 min you liar
+3/5/2026 14:25:14,Man,Grad Student,22-25,PhD or PsyD,"$100,000-200,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option B,,,Option B,Option B,,Change to Option B,Option B,Change to Option B,Option B,Change to Option B,Change to Option B,Rational decision making and correlation to metrics of education ,
+3/5/2026 14:25:45,Woman,Senior,18-21,Other,"<$50,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option B,Option B,Option A,,Change to Option B,Option B,Option B,,Change to Option B,Option B,Change to Option B,Option B,Change to Option B,Change to Option B,Trying to trick me to see if I would change my choice. Also seeing how much people are willing to take risks on gambling based on family income. ,Wanted to know if my guess about what the survey is about was correct.
+3/6/2026 10:41:35,Woman,Sophomore,18-21,Masters or professional degree,"$250,000+",Option A,Option B,,Change to Option B,Option A,,Option B,Option A,Option A,Change to Option B,,Option A,Option A,,,Option B,,Option A,,,Risk taking and choices depending on chances,
+3/6/2026 11:13:34,Woman,Senior,18-21,PhD or PsyD,"$50,000-100,000",Option B,Option B,Change to Option B,Change to Option B,Option A,,Option A,Option A,Option A,,,Option B,Option B,,Change to Option B,Option B,Change to Option B,Option A,Change to Option B,Change to Option B,"Seeing whether we changed out minds, being presented the options twice",
